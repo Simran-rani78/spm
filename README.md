@@ -1,2 +1,2 @@
 # spm
-this is the spm lab readme file
+this is the spm lab readme file of lab branch
